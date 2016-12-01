@@ -1,2 +1,3 @@
 # IITG-AUTOMATION NO DUES FORM
-Automating the process of taking No-Dues Form from all sections after completion of Btech
+project based on LARAVEL to automate the process of taking NoDues clearance from all departments after the completion of Btech ,also follows hierarical order in which requests should be send and a few features for better user's experience
+
